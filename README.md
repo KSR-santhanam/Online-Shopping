@@ -55,7 +55,3 @@ The Online Shopping Project demonstrates the integration of technologies to crea
 - Integration with payment gateways for actual transactions.
 - Enhanced product catalog features.
 - Addition of order history and tracking functionalities.
-
-**11. Acknowledgments:**
-
-Special thanks to the developers, contributors, and communities behind the technologies used in this project. Their ongoing efforts have played a pivotal role in the success of this online shopping platform.
